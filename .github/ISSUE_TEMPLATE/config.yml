@@ -2,10 +2,10 @@ blank_issues_enabled: false
 contact_links:
   - name: QQ 群 | QQ Group
     url: https://docs.hmcl.net/groups.html
-    about: Hello Minecraft! Launcher 的官方 QQ 交流群。| The official QQ group of Hello Minecraft! Launcher.
-  - name: Discord 服务器 | Discord Server
+    about: Лаунчер MirWorld 的官方 QQ 交流群。| Офисиальная группа MirWorld.
+  - name: Дискорд 服务器 | Дискорд канал
     url: https://discord.gg/jVvC7HfM6U
-    about: Hello Minecraft! Launcher 的官方 Discord 服务器。| The official Discord server of Hello Minecraft! Launcher.
-  - name: 其他反馈 | Others
+    about: Лаунчер MirWorld 的官方 Дискорд 服务器。| Официальный Discord-сервер лаунчера MirWorld!
+  - name: 其他反馈 | Другие
     url: https://github.com/HMCL-dev/HMCL/discussions/new/choose
-    about: 通过 Discussions 反馈其他问题。| Report other problems in Discussions.
+    about: 通过 Обсуждения 反馈其他问题。| О других проблемах сообщайте в разделе «Обсуждения».
